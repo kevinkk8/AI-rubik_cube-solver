@@ -17,3 +17,12 @@ Mobile app for solving 3*3 Rubik's Cube.
   - Rubiks Cube Tracker (https://github.com/dwalton76/rubiks-cube-tracker)
   - OpenCV (https://pypi.org/project/opencv-python/)
  
+
+
+Run the app
+Target	                                Command
+Android/iOS device or emulator	        flutter run
+Chrome/Safari/Edge (web)	              flutter run -d chrome
+Windows/macOS/Linux desktop	           flutter run -d windows (or macos, linux)
+
+The first build downloads platform binaries; later runs use hot-reload—edit code, press r, and UI should updates in <1 s.
