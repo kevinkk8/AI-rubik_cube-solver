@@ -20,6 +20,7 @@ Mobile app for solving 3*3 Rubik's Cube.
 
 
 Run the app
+
 Target	                                Command
 Android/iOS device or emulator	        flutter run
 Chrome/Safari/Edge (web)	              flutter run -d chrome
